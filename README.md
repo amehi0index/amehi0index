@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+![Amelia hill (1)](https://user-images.githubusercontent.com/49414147/147899057-5e6b66c4-f0e9-4f60-848d-3d8e11ccc40f.png)
+
+
 <!--
 **amehi0index/amehi0index** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
