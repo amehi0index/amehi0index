@@ -17,6 +17,6 @@ My name is Amelia and I am currently a computer programming student and a self-t
 
 ### <span style="color:blueviolet">Contact Me</span>
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=011b68)](https://twitter.com/amehi0index) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4db3fd)](https://www.linkedin.com/in/amelia-hill-1648a6227)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=032896)](https://twitter.com/amehi0index) [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=4db3fd)](https://www.linkedin.com/in/amelia-hill-1648a6227)
 [![Github Badge](https://img.shields.io/badge/Github-Profile-informational?style=flat&logo=github&logoColor=white&color=blueviolet)](https://github.com/amehi0index)
 
