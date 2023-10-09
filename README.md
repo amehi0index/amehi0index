@@ -3,15 +3,25 @@
 Hello, World!  
 My name is Amelia and I am currently a computer programming student and a self-taught frontend web developer. My current objectives are to continue to grow my web development skills, find employment as a web developer, and to collaborate on some impactful open source projects.  [![Portfolio](https://img.shields.io/badge/Portfolio-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=blueviolet)](https://ameliahill.me)
 
+## <span style="color:blueviolet">Web Development Skills</span>
 
-### <span style="color:blueviolet">Technologies</span>
+### Frontend:
+- **Skills**: HTML5, CSS3, Javascript
+- **Frameworks/Libraries**: React.js, AWS Amplify
+- **Styling**: SASS, Tailwind CSS, CSS
 
-| Frontend            | Backend             | Some          |
-| ------------------- | ------------------- | ------------- |
-| &#10003; CSS3       | &#10003; Node.js    | &#10003; SASS |
-| &#10003; HTML5      | &#10003; Express.js | &#10003; Java |
-| &#10003; Javascript | &#10003; MondoDB    | &#10003; MySQL/SQL  |
-| &#10003; React.js   |                     |               |
+### Backend:
+- **Runtime**: Node.js
+- **Frameworks**: Express.js
+- **Databases/Query Languages**: MongoDB, MySQL/SQL, PostgreSQL, DynamoDB, AWS GraphQL
+- **Cloud Services**: AWS AppSync, Amazon Cognito, DynamoDB, AWS Lambda, AWS S3
+
+### Containerization & Orchestration:
+- **Docker**: Docker configurations for frontend and backend
+- **Docker Compose**: Multi-container Docker applications
+
+### Other Technologies:
+- **Languages**: Java, Python
 
 ---
 
